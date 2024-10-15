@@ -1,9 +1,11 @@
-package itm.oss;
+package itm;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+
+import itm.oss.Calculator;
 
 @DisplayName("Calculator Tests for OSS Class")
 public class CalculatorTests {
